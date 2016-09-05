@@ -1,7 +1,7 @@
 .pioenvs
-CMakeListsPrivate.txt
 .clang_complete
 .gcc-flags.json
+CMakeListsPrivate.txt
 CMakeLists.txt
 .cproject
 .directory
